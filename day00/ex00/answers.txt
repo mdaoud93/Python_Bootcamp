@@ -1,0 +1,6 @@
+pip list
+pip list
+pip show numpy
+pip search "terreact"
+pip freeze > requirements.txt
+
